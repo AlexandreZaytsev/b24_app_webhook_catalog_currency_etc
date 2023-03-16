@@ -1,4 +1,4 @@
-# b24_app_webhook_catalog_currency_etc
+# Bitrix24_app_webhook_catalog_currency_etc
 
 первые шаги для начинающих Б24 облако,  
  **рабочий проект**,  
