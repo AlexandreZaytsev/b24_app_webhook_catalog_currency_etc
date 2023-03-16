@@ -1,0 +1,70 @@
+Учебный курс Документация для пользователей и разработчиков 
+	https://askaron.ru/api_help/course1/contents/
+
+Гайд по добавлению адресов при создании компаний и контактов в Битрикс24 через REST API
+	https://www.info-expert.ru/blog/gayd-po-dobavleniyu-adresov-pri-sozdanii-kompaniy-i-kontaktov-v-bitriks24-cherez-rest-api/
+
+Cписок доступных значений SCOPE	Б24
+	https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=99&LESSON_ID=2280	
+	
+	//https://dev.1c-bitrix.ru/rest_help/userfieldconfig/userfieldconfig/userfieldconfig_get.php	
+//https://training.bitrix24.com/rest_help/userfieldconfig/userfieldconfig/userfieldconfig_update.php?print=Y	
+//https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=43&LESSON_ID=3496&LESSON_PATH=3913.3516.4804.3496
+
+Заполнение реквизитов Компании через REST API
+	https://dev.1c-bitrix.ru/support/forum/forum48/topic117227/
+
+Условия фильтрации	
+	https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=43&LESSON_ID=2683
+	
+	https://translated.turbopages.org/proxy_u/en-ru.ru.721e8b26-6405850f-4962d322-74722d776562/
+
+удалить из ассоциативного массива
+	https/stackoverflow.com/questions/5450148/php-remove-elements-from-associative-array
+
+Что такое JavaScript-эквивалент var_dump или print_r в PHP? [дубликат]
+https://stackoverflow.com/questions/603987/what-is-the-javascript-equivalent-of-var-dump-or-print-r-in-php
+
+Async/await
+https://learn.javascript.ru/async-await?ysclid=ley5zvcdak87449214
+
+Как связать асинхронные функции в JavaScript?
+https://www.geeksforgeeks.org/how-to-chain-asynchronous-functions-in-javascript/
+
+Последовательный вызов асинхронных функций
+https://habr.com/ru/post/134823/
+
+Bitrix24 JS-lib Wrapper
+https://github.com/andrey-tech/bx24-wrapper-js
+
+Простейшее руководство по использованию Async/Await с forEach () в JavaScript (с примерами) 
+https://dev-gang.ru/article/prosteishee-rukovodstvo-po-ispolzovaniu-asyncawait-s-foreach--v-javascript-s-primerami-tyfbhbekpj/
+
+Последовательный fetch и 5 способов решения
+https://habr.com/ru/post/490524/
+
+Использование JavaScript Fetch API для получения данных
+https://www.digitalocean.com/community/tutorials/how-to-use-the-javascript-fetch-api-to-get-data-ru
+
+Fetch
+https://learn.javascript.ru/fetch
+
+https://highload.today/chto-takoe-async-await-v-javascript-primery-ispolzovaniya/
+https://github.com/andrey-tech/bx24-wrapper-js
+
+	https://question-it.com/questions/5084165/kak-dobavit-kvadratnye-skobki-vokrug-dannyh-podmassiva-vnutri-stroki-v-kodirovke-json
+	
+https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=42&LESSON_ID=20556&LESSON_PATH=3912.12836.12914.20556-->
+https://dev.1c-bitrix.ru/learning/course/index.php?COURSE_ID=42&LESSON_ID=20556&LESSON_PATH=3912.12836.12914.20556-->
+
+//https://highload.today/chto-takoe-async-await-v-javascript-primery-ispolzovaniya/
+//https://github.com/andrey-tech/bx24-wrapper-js
+
+//отладка
+//	https://webhook.site/
+//	https://blog.ivru.net/?id=31
+
+//битрикс обработчик crest 1.3.6 
+//  https://dev.1c-bitrix.ru/rest_help/rest_sum/crest.php
+//  https://github.com/bitrix-tools/crest
+
